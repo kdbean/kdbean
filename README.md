@@ -29,8 +29,8 @@
   <!-- GitHub Icon -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="55" height="55" />
 
-  <!-- Visit Count -->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdbean%2Fhit-counter&count_bg=%23E5096B&title_bg=%23555555&icon=&icon_color=%23CFC3C3&title=Hits&edge_flat=false)](https://github.com/kdbean)
+  <!-- Visit Hits -->
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdbean%2Fhit-counter&count_bg=%23E5096B&title_bg=%23555555&icon=&icon_color=%23CFC3C3&title=Hits&edge_flat=false)
   
   <!--- Git Animal Area 
   <a href="https://github.com/devxb/gitanimals" style="text-align: center;">
